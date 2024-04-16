@@ -1,0 +1,4 @@
+1  AyseTokatlioglu  1  1  4000  19  13  1
+2  AhmetGunday  0  0  600  0  3  5
+3  UmranAkyurek  1  0  1010  2  8  5
+4  EmirCelik  1  1  2475  0  17  4
